@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,golang.org
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.,Google
 IP-CIDR,35.190.247.0/24,no-resolve
@@ -20,3 +22,4 @@ IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,209.85.128.0/17,no-resolve
 IP-CIDR,216.58.192.0/19,no-resolve
 IP-CIDR,216.239.32.0/19,no-resolve
+ 
